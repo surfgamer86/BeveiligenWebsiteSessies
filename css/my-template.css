@@ -1,0 +1,10 @@
+﻿body {
+  padding-top: 50px;
+}
+.sponsor
+{
+    border: 2px dotted #000099;
+    margin: 5px;
+    padding: 5px 5px 0 5px;
+    background-color: #DDEEDD;
+}
